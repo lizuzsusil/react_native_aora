@@ -1,6 +1,5 @@
 import {
   Image,
-  Text,
   FlatList,
   TouchableOpacity,
   ImageBackground,
